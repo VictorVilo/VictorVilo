@@ -20,16 +20,14 @@ I'm a software engineer focused on building next-gen solutions with beautiful, u
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="VictorVilo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVilo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- 
+    STEP 1: Replace YOUR_EXACT_USERNAME with your GitHub username.
+    STEP 2: After confirming the stats are correct, you can remove the "&cache_seconds=1" part.
+  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1" alt="Your GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-<!-- Optional: Add a GitHub Streak card! -->
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorVilo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
--->
 
 ---
 
@@ -49,7 +47,8 @@ I'm a software engineer focused on building next-gen solutions with beautiful, u
 ### 👀 Profile Visitors
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorVilo.VictorVilo&left_color=blue&right_color=green" alt="Profile views"/>
+  <!-- Replace YOUR_EXACT_USERNAME with your GitHub username -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_EXACT_USERNAME.YOUR_EXACT_USERNAME&left_color=blue&right_color=green" alt="Profile views"/>
 </p>
 
 ---
