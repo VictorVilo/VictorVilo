@@ -1,56 +1,105 @@
-# 👋 Hi there, I'm Victor Githinji!
+<div align="center">
 
-### Passionate Flutter Developer | Node.js Engineer | Cloud Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Victor+Githinji;Senior+Software+Engineer;Fintech+Systems+Architect;Flutter+%7C+Swift+%7C+Node.js+%7C+Cloud;Building+Secure+Financial+Infrastructure" />
 
-I'm a software engineer focused on building next-gen solutions with beautiful, user-centric mobile apps and scalable backend systems on the cloud.
-
----
-
-### 🚀 My Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+# 🧠 Senior Software Engineer | Fintech Architect | Cloud-Native Builder
 
-<p align="center">
-  <!-- 
-    STEP 1: Replace YOUR_EXACT_USERNAME with your GitHub username.
-    STEP 2: After confirming the stats are correct, you can remove the "&cache_seconds=1" part.
-  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1" alt="Your GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVilo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+I design and engineer **production-grade fintech systems**, scalable backend architectures, and high-performance mobile applications powering real-world financial ecosystems.
+
+Specialized in secure transactions, distributed systems, and cloud-native infrastructure.
+
+> Engineering trust in every transaction.
 
 ---
 
-### 🌍 Let's Connect!
+# ⚡ Core Engineering Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/victor-githinji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/vilo_vic" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+## 📱 Mobile Engineering
+![Flutter](https://img.shields.io/badge/Flutter-0A0F1C?style=for-the-badge&logo=flutter&logoColor=00F5FF)
+![Dart](https://img.shields.io/badge/Dart-0A0F1C?style=for-the-badge&logo=dart&logoColor=00F5FF)
+![Swift](https://img.shields.io/badge/Swift-0A0F1C?style=for-the-badge&logo=swift&logoColor=FF6B00)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A0F1C?style=for-the-badge&logo=apple&logoColor=FFFFFF)
 
----
+## 🌐 Backend & Distributed Systems
+![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
+![Express](https://img.shields.io/badge/Express-0A0F1C?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-0A0F1C?style=for-the-badge&logo=mysql&logoColor=00758F)
 
-### 👀 Profile Visitors
-
-<p align="left">
-  <!-- Replace YOUR_EXACT_USERNAME with your GitHub username -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VictorVilo.VictorVilo&left_color=blue&right_color=green" alt="Profile views"/>
-</p>
+## ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-0A0F1C?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-0A0F1C?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-0A0F1C?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
-> _"Building the future one app, one backend, and one cloud solution at a time."_
+# 📊 Engineering Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVilo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VictorVilo&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🏦 Fintech Focus Areas
+
+- 💳 Payment orchestration systems  
+- 💱 Crypto on-ramp & off-ramp APIs  
+- 🏦 Credit & lending platforms  
+- 🔐 Secure KYC & authentication pipelines  
+- 📊 Financial analytics dashboards  
+- ⚙️ Admin portals with role-based access  
+- ☁️ Cloud-native transaction processing  
+
+---
+
+# 🌍 Connect With Me
+
+<a href="https://linkedin.com/in/victor-githinji">
+<img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://twitter.com/vilo_vic">
+<img src="https://img.shields.io/badge/X-0A0F1C?style=for-the-badge&logo=twitter&logoColor=FFFFFF"/>
+</a>
+
+---
+
+# 👁 Profile Visitors
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=VictorVilo.VictorVilo&left_color=0A0F1C&right_color=00F5FF" />
+
+---
+
+# 🧩 Engineering Philosophy
+
+Architect systems for scale.  
+Design software for trust.  
+Build infrastructure that moves money — reliably.
