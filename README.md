@@ -1,61 +1,78 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Victor+Githinji;Senior+Software+Engineer;Fintech+Systems+Architect;Flutter+%7C+Swift+%7C+Node.js+%7C+Cloud;Building+Secure+Financial+Infrastructure" />
+# Victor Githinji
+
+### Senior Software Engineer • Fintech Systems Architect • Cloud Engineer
+
+Building secure financial infrastructure and scalable distributed systems.
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Fintech+Systems+Engineer;Mobile+%7C+Backend+%7C+Cloud;Secure+Transaction+Infrastructure;Flutter+%7C+Swift+%7C+Node.js" />
 
 </div>
 
 ---
 
-# 🧠 Senior Software Engineer | Fintech Architect | Cloud-Native Builder
+# 🧠 About Me
 
-I design and engineer **production-grade fintech systems**, scalable backend architectures, and high-performance mobile applications powering real-world financial ecosystems.
+Software engineer focused on **financial technology platforms**, **secure transaction systems**, and **cloud-native architectures**.
 
-Specialized in **secure transactions, distributed systems, and cloud-native infrastructure**.
+I design and build **production-grade systems** used in payments, fintech platforms, and financial data processing.
 
-> Engineering trust in every transaction.
+Key areas of specialization:
 
----
+- Payment infrastructure
+- Transaction processing systems
+- Secure authentication & KYC systems
+- Cloud-native backend architectures
+- Scalable mobile applications
 
-# ⚡ Core Engineering Stack
-
-## 📱 Mobile Engineering
-
-![Flutter](https://img.shields.io/badge/Flutter-0A0F1C?style=for-the-badge&logo=flutter&logoColor=00F5FF)
-![Dart](https://img.shields.io/badge/Dart-0A0F1C?style=for-the-badge&logo=dart&logoColor=00F5FF)
-![Swift](https://img.shields.io/badge/Swift-0A0F1C?style=for-the-badge&logo=swift&logoColor=FF6B00)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A0F1C?style=for-the-badge&logo=apple&logoColor=white)
-
-## 🌐 Backend & Distributed Systems
-
-![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
-![Express](https://img.shields.io/badge/Express-0A0F1C?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0A0F1C?style=for-the-badge&logo=mysql&logoColor=00758F)
-
-## ☁️ Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-0A0F1C?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-0A0F1C?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-0A0F1C?style=for-the-badge&logo=git&logoColor=F05032)
+> Engineering trust into financial systems.
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Technology Stack
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+---
+
+### Backend Engineering
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 Engineering Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVilo&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVilo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🔥 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VictorVilo&theme=algolia&no-frame=true&margin-w=8"/>
+<img src="https://streak-stats.demolab.com?user=VictorVilo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -63,36 +80,30 @@ Specialized in **secure transactions, distributed systems, and cloud-native infr
 
 # 🏦 Fintech Focus Areas
 
-- 💳 Payment orchestration systems  
-- 💱 Crypto on-ramp & off-ramp APIs  
-- 🏦 Credit & lending platforms  
-- 🔐 Secure KYC & authentication pipelines  
-- 📊 Financial analytics dashboards  
-- ⚙️ Admin portals with role-based access  
-- ☁️ Cloud-native transaction processing  
+- Payment orchestration systems
+- Wallet infrastructure
+- Fintech APIs & integrations
+- Secure authentication systems
+- Financial data processing
+- Admin and merchant portals
+- Cloud-native financial services
 
 ---
 
 # 🌍 Connect With Me
 
 <a href="https://linkedin.com/in/victor-githinji">
-<img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/vilo_vic">
-<img src="https://img.shields.io/badge/X-0A0F1C?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-
----
-
-# 👁 Profile Visitors
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=VictorVilo&left_color=black&right_color=blue" />
 
 ---
 
 # 🧩 Engineering Philosophy
 
-Architect systems for scale.  
-Design software for trust.  
-Build infrastructure that moves money — reliably.
+Design systems for **reliability**.  
+Architect software for **scale**.  
+Build financial infrastructure that **people can trust**.
