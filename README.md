@@ -6,7 +6,7 @@
 
 Building secure financial infrastructure and scalable distributed systems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Fintech+Systems+Engineer;Mobile+%7C+Backend+%7C+Cloud;Secure+Transaction+Infrastructure;Flutter+%7C+Swift+%7C+Node.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Fintech+Systems+Engineer;Mobile+%7C+Backend+%7C+Cloud;Secure+Transaction+Infrastructure;Flutter+%7C+Swift+%7C+Node.js;React+%7C+Next.js+%7C+TypeScript;AWS+%7C+Firebase+%7C+AI" />
 
 </div>
 
@@ -16,7 +16,7 @@ Building secure financial infrastructure and scalable distributed systems.
 
 Software engineer focused on **financial technology platforms**, **secure transaction systems**, and **cloud-native architectures**.
 
-I design and build **production-grade systems** used in payments, fintech platforms, and financial data processing.
+I design and build **production-grade systems** used in payments, fintech platforms, mobile applications, and financial data processing.
 
 Key areas of specialization:
 
@@ -24,7 +24,8 @@ Key areas of specialization:
 - Transaction processing systems
 - Secure authentication & KYC systems
 - Cloud-native backend architectures
-- Scalable mobile applications
+- Scalable mobile and web applications
+- Applied AI integrations for modern products
 
 > Engineering trust into financial systems.
 
@@ -40,6 +41,14 @@ Key areas of specialization:
 
 ---
 
+### Frontend Engineering
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
 ### Backend Engineering
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -48,33 +57,12 @@ Key areas of specialization:
 
 ---
 
-### Cloud & Infrastructure
+### Cloud, Infrastructure & Applied AI
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AI](https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-# 📊 Engineering Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVilo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=VictorVilo&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -87,6 +75,7 @@ Key areas of specialization:
 - Financial data processing
 - Admin and merchant portals
 - Cloud-native financial services
+- AI-powered product features and automation
 
 ---
 
@@ -97,7 +86,7 @@ Key areas of specialization:
 </a>
 
 <a href="https://twitter.com/vilo_vic">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 ---
