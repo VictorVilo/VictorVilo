@@ -25,7 +25,7 @@ Key areas of specialization:
 - Secure authentication & KYC systems
 - Cloud-native backend architectures
 - Scalable mobile and web applications
-- Applied AI integrations for modern products
+- Applied AI integrations
 
 > Engineering trust into financial systems.
 
@@ -57,12 +57,30 @@ Key areas of specialization:
 
 ---
 
-### Cloud, Infrastructure & Applied AI
+### Cloud, Infrastructure & AI
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AI](https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVilo&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VictorVilo&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -75,7 +93,7 @@ Key areas of specialization:
 - Financial data processing
 - Admin and merchant portals
 - Cloud-native financial services
-- AI-powered product features and automation
+- AI-powered product features
 
 ---
 
