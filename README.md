@@ -19,20 +19,27 @@ Specialized in secure transactions, distributed systems, and cloud-native infras
 # ⚡ Core Engineering Stack
 
 ## 📱 Mobile Engineering
-![Flutter](https://img.shields.io/badge/Flutter-0A0F1C?style=for-the-badge&logo=flutter&logoColor=00F5FF)
-![Dart](https://img.shields.io/badge/Dart-0A0F1C?style=for-the-badge&logo=dart&logoColor=00F5FF)
-![Swift](https://img.shields.io/badge/Swift-0A0F1C?style=for-the-badge&logo=swift&logoColor=FF6B00)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A0F1C?style=for-the-badge&logo=apple&logoColor=FFFFFF)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
 
 ## 🌐 Backend & Distributed Systems
-![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
-![Express](https://img.shields.io/badge/Express-0A0F1C?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-0A0F1C?style=for-the-badge&logo=mysql&logoColor=00758F)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ## ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-0A0F1C?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-0A0F1C?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-0A0F1C?style=for-the-badge&logo=git&logoColor=F05032)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -52,17 +59,7 @@ Specialized in secure transactions, distributed systems, and cloud-native infras
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VictorVilo&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🌌 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=VictorVilo&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -83,18 +80,18 @@ Specialized in secure transactions, distributed systems, and cloud-native infras
 # 🌍 Connect With Me
 
 <a href="https://linkedin.com/in/victor-githinji">
-<img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/vilo_vic">
-<img src="https://img.shields.io/badge/X-0A0F1C?style=for-the-badge&logo=twitter&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 ---
 
 # 👁 Profile Visitors
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=VictorVilo.VictorVilo&left_color=0A0F1C&right_color=00F5FF" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=VictorVilo.VictorVilo" />
 
 ---
 
