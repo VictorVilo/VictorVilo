@@ -105,19 +105,6 @@ const victor = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛍️ **[Feet-by-Mo](https://github.com/VictorVilo/Feet-by-Mo)** | E-commerce mobile app with product catalogue, cart and checkout flows. *In active development.* | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| 🌐 **[my-portfolio](https://github.com/VictorVilo/my-portfolio)** | Personal portfolio showcasing projects, experience and engineering work. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| 🧒 **[e-Kids](https://github.com/VictorVilo/e-Kids)** | Java application built for children's learning and engagement. | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
-| 🚦 **[TransportDepartment](https://github.com/VictorVilo/TransportDepartment)** | Transport department management system for records and operations. | ![CSS](https://img.shields.io/badge/-HTML%2FCSS-1572B6?logo=css3&logoColor=white) |
-
-> 🔒 Much of my professional work lives in private, production financial systems. Happy to walk through architecture, design decisions and outcomes in conversation.
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
