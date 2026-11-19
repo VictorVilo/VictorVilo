@@ -66,13 +66,13 @@
 <div align="center">
 
 ![Payment Orchestration](https://img.shields.io/badge/Payment_Orchestration-0f2027?style=flat-square&logo=stripe&logoColor=2EA8E0)
-![Wallet Infra](https://img.shields.io/badge/Wallet_Infrastructure-0f2027?style=flat-square&logo=wallet&logoColor=2EA8E0)
+![Wallet Infra](https://img.shields.io/badge/👛_Wallet_Infrastructure-0f2027?style=flat-square)
 ![Transactions](https://img.shields.io/badge/Transaction_Processing-0f2027?style=flat-square&logo=databricks&logoColor=2EA8E0)
 ![KYC](https://img.shields.io/badge/KYC_%26_Identity-0f2027?style=flat-square&logo=auth0&logoColor=2EA8E0)
 ![APIs](https://img.shields.io/badge/Fintech_APIs-0f2027?style=flat-square&logo=postman&logoColor=2EA8E0)
 ![Portals](https://img.shields.io/badge/Admin_%26_Merchant_Portals-0f2027?style=flat-square&logo=googleanalytics&logoColor=2EA8E0)
 ![Data](https://img.shields.io/badge/Financial_Data-0f2027?style=flat-square&logo=apachekafka&logoColor=2EA8E0)
-![AI](https://img.shields.io/badge/AI_Features-0f2027?style=flat-square&logo=openai&logoColor=2EA8E0)
+![AI](https://img.shields.io/badge/AI_Features-0f2027?style=flat-square&logo=googlegemini&logoColor=2EA8E0)
 
 </div>
 
@@ -82,12 +82,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VictorVilo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&hide_title=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=VictorVilo&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com?user=VictorVilo&hide_border=true&theme=tokyonight" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorVilo&hide_border=true&theme=tokyo-night&area=true&hide_title=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VictorVilo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
